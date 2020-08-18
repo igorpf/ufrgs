@@ -1,0 +1,54 @@
+[submodule "aop-tse"]
+	path = aop-tse
+	url = https://github.com/igorpf/aop-tse
+[submodule "mcrminer"]
+	path = mcrminer
+	url = https://github.com/igorpf/mcrminer
+[submodule "neural-networks"]
+	path = neural-networks
+	url = https://github.com/igorpf/neural-networks
+[submodule "combinatorial-optimization"]
+	path = combinatorial-optimization
+	url = https://github.com/igorpf/combinatorial-optimization
+[submodule "cpd"]
+	path = cpd
+	url = https://github.com/igorpf/cpd
+[submodule "formal-languages"]
+	path = formal-languages
+	url = https://github.com/igorpf/formal-languages
+[submodule "compilers"]
+	path = compilers
+	url = https://github.com/igorpf/compilers
+[submodule "operating-systems-2"]
+	path = operating-systems-2
+	url = https://github.com/igorpf/operating-systems-2
+[submodule "formal-semantics"]
+	path = formal-semantics
+	url = https://github.com/igorpf/formal-semantics
+[submodule "nlp"]
+	path = nlp
+	url = https://github.com/igorpf/nlp
+[submodule "ai-2"]
+	path = ai-2
+	url = https://github.com/igorpf/ai-2
+[submodule "ai"]
+	path = ai
+	url = https://github.com/igorpf/ai
+[submodule "neural-network-2"]
+	path = neural-network-2
+	url = https://github.com/igorpf/neural-network-2
+[submodule "sisop2"]
+	path = sisop2
+	url = https://github.com/igorpf/sisop2
+[submodule "ihc"]
+	path = ihc
+	url = https://github.com/igorpf/ihc
+[submodule "fcg"]
+	path = fcg
+	url = https://github.com/igorpf/fcg
+[submodule "leilao"]
+	path = leilao
+	url = https://github.com/igorpf/leilao
+[submodule "evolutiva-ag"]
+	path = evolutiva-ag
+	url = https://github.com/igorpf/evolutiva-ag
